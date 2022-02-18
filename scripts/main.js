@@ -1,5 +1,6 @@
 // Define Elements
 const buttons = document.querySelectorAll('a');
+let mousedownTimer;
 
 // Loop trough all buttons
 buttons.forEach(button => {
@@ -20,4 +21,11 @@ buttons.forEach(button => {
             button.classList.add('color-lightpurple');
         }
      });
-});
+
+    // Add mousedown event listener
+     button.addEventListener('mousedown', function() {
+         mousedownTimer = setTimeout(() => {
+            button.classList.add('color-green')
+     }, 1500);
+    });
+})
