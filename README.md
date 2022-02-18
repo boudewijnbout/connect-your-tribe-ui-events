@@ -1,16 +1,48 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Tribe UI Events
+![Schermafbeelding Homepagina](assets/images/screenshot-homepage.png)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+Dit project omvat een pagina met buttons met daarbij behorende JavaScript events.
 
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+## 📚 Inhoudsopgave
 
-## Experimenten
-<!-- In de Experimenten beschrijf je wat je per experimnet hebt gedaan en documenteer je de code aan de hand van voorbeelden -->
-<!-- Voeg een mooie poster visual toe 📸 per experiment -->
+* [Beschrijving](#beschrijving)
+* [Kenmerken](#kenmerken)
+* [Installatie](#installatie)
+* [Gebruik](#gebruik)
+* [Bronnen](#bronnen)
+* [Licentie](#licentie)
 
+## ⚡ Kenmerken
+Dit project is gemaakt met HTML, CSS en JavaScript. Verder staat hieronder een korte lijst met gebruikte tools en middelen.
+
+**Tools**
+
+- 🖥️ Webstorm & Visual Studio Code
+
+**Gebruikte technieken**
+
+- 📟 HTML
+- ⌚ CSS
+- 📲 JavaScript
+
+## 📥 Installatie
+
+1. Clone of download deze respository.
+2. Ga naar de root directory van het project.
+3. Open het `index.html` bestand, hierdoor wordt de homepagina van de website geopend.
+
+## 🔨 Gebruik
+
+Klik op de verschillende knoppen om deze van kleur te laten veranderen, de knoppen veranderen van kleur bij een enkele click, een dubbele click en als je de knop een tijdje vasthoud.
+
+## 📖 Bronnen
+[HTML5](https://www.w3schools.com/html/)
+<br>
+[CSS3](https://www.w3schools.com/css/)
+<br>
+[JavaScript](https://www.w3schools.com/js/)
+
+## 🔓 Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
